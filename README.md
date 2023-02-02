@@ -1,6 +1,6 @@
  # React Movie App (version 1)
 
-## url
+## url https://soheeen96.github.io/react-movie-app/
 
-https://soheeen96.github.io/react-movie-app/
+
 

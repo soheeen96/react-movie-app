@@ -1,0 +1,19 @@
+.header-wrap {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+
+  background: #141414;
+  z-index: 4;
+}
+.header-wrap h1 {
+  max-width: 1300px;
+  margin: 0 auto;
+}
+.header-wrap a {
+  font-size: 42px;
+  line-height: 100px;
+  font-weight: 600;
+  color: #e50914;
+}
